@@ -105,7 +105,7 @@ console.log(`Масив після додавання ${num}: ${arr9}`);
 
 // Task10
 let arr10 = [];
-let n = 15;
+let n = 5;
 for (let i = 0; i < n; i += 1) {
   arr10[i] = 1;
 }
